@@ -1,2 +1,7 @@
 # eCommerce2
-![Screenshot](Screen Shot 2019-12-20 at 18.46.45.png)
+<p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="your_relative_path_here" width="350" title="hover text">
+</p>
